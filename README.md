@@ -2,6 +2,8 @@
 
 Capstone Project for the Advanced Data Analytics Class @ HEC Lausanne
 
+Author: Dorentin Morina
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ## Description of the project
 This repository contains code for a project that predicts forex price movements using machine learning techniques.
